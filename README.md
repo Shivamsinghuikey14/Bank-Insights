@@ -96,6 +96,15 @@ Special thanks to Power BI Community and various online resources for insights i
 
 This project was developed as part of my journey in data analytics and business intelligence.
 
+DashBoard ScreenShort
+![image](https://github.com/user-attachments/assets/6216536d-9d76-45ac-967c-bc43ae5b5df0)
+![image](https://github.com/user-attachments/assets/61826a5c-70fd-4cfd-b025-ad9bf6935175)
+![image](https://github.com/user-attachments/assets/643e0dc4-cf69-4042-998b-33af89732588)
+
+
+
+
+
 📬 Contact
 
 GitHub: Shivamsinghuikey14
